@@ -1,7 +1,7 @@
 NetworkManager-dispatch script for resolv.conf
 ==============================================
 
-This is a script to make NetworkManager add the contents of resolv.conf.head and resolv.conf.tail around the auto-generated resolv.conf.
+This is a script to make NetworkManager add the contents of resolv.conf.head and resolv.conf.tail around the auto-generated resolv.conf.  You probably want to install it from the [AUR](https://aur.archlinux.org/packages/networkmanager-dispatch-resolv).
 
 See the ArchWiki articles on [resolv.conf](https://wiki.archlinux.org/index.php/Resolv.conf) and the [NetworkManager dispatcher](https://wiki.archlinux.org/index.php/NetworkManager#Network_services_with_NetworkManager_dispatcher) for more information.
 
